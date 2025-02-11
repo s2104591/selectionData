@@ -1,0 +1,12 @@
+MyLib
+MyVar
+SelectionGUI
+StratLite
+
+
+
+
+enums:
+MarketType
+MyPosition
+Prefix

@@ -1,0 +1,49 @@
+
+
+For c# : 
+1. when removing last day, keep dayId same, change code to "removed"
+2. when changing start and HR2 back>300 make rank=back
+3. when clicking Change menu use HR 0-303-0
+4. add int[] quickReferenceDays=new int[9980] , gets filled in readfiles
+5. use quickReferenceDays in fetchData()
+ 
+
+for Java:
+1. remove bug in assigning strategy -done version2
+2. remove showMessages on btnGo -done v2
+3. add eMessage Box instead  -done v2
+4. format grid items so allign better -done v2
+5. add  NumberList class gets used display medians - done v2
+6. When getting DOW use AAPL only -done v2
+7. multiple codes in strategy   -done v2
+
+
+
+
+
+8. highrank 303 and 304 for change and drop
+9. when clicking startegy, need to assign max values also, default to 200
+10. default incThurs False, move DOW in line with MaxitemsDay
+11. btnClear  & btnExit  - also change defaultOperation to doNothingOnClose
+
+
+12. comboBox for selecting code 
+13. when searching code pass as parameter, not have global variable
+14. implement Quick reference
+
+
+15. use NumberList for calculating HighRates
+16. create and use NumberList.output() method displays count,avg, median
+    Also if exceed size, count, avg and median to return 0; 
+17. have meunu function to specify market -> US400, US500,US600,Euro,London and Currency
+18. create & use function to set strategy using all values with matching variable types
+
+ 
+ 
+
+ 
+
+
+
+
+    

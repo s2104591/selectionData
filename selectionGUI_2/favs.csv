@@ -1,0 +1,507 @@
+﻿#,~,^,$
+LineNo,Symbol,Group,name
+#1,~A,^7,$Agilent Technologies
+#2,~AAL,^4,$American Airlines Gp
+#3,~AAP,^7,$Advance Auto Parts Inc
+#4,~AAPL,^1,$Apple Inc
+#5,~ABBV,^7,$Abbvie Inc
+#6,~ABC,^7,$Amerisourcebergen Corp
+#7,~ABMD,^7,$Abiomed Inc
+#8,~ABT,^7,$Abbott Laboratories
+#9,~ACN,^7,$Accenture Plc
+#10,~ADBE,^7,$Adobe Systems Inc
+#11,~ADI,^7,$Analog Devices
+#12,~ADM,^7,$Archer Daniels Midland
+#13,~ADP,^7,$Automatic Data Procs
+#14,~ADSK,^7,$Autodesk Inc
+#15,~AEE,^7,$Ameren Corp
+#16,~AEP,^3,$American Electric Power Company
+#17,~AES,^7,$The Aes Corp
+#18,~AFL,^7,$Aflac Inc
+#19,~AIG,^7,$American International Group
+#20,~AIZ,^7,$Assurant Inc
+#21,~AJG,^7,$Arthur J. Gallagher & Company
+#22,~AKAM,^7,$Akamai Technologies
+#23,~ALB,^7,$Albemarle Corp
+#24,~ALGN,^7,$Align Technology
+#25,~ALK,^7,$Alaska Air Group
+#26,~ALL,^7,$Allstate Corp
+#27,~ALLE,^7,$Allegion Plc
+#28,~AMAT,^7,$Applied Materials
+#29,~AMCR,^7,$Amcor Plc
+#30,~AMD,^7,$Adv Micro Devices
+#31,~AME,^7,$Ametek Inc
+#32,~AMGN,^7,$Amgen Inc
+#33,~AMP,^7,$Ameriprise Financial Services
+#34,~AMT,^7,$American Tower Corp
+#35,~AMZN,^7,$Amazon.com Inc
+#36,~ANET,^7,$Arista Networks Inc
+#37,~ANSS,^7,$Ansys Inc
+#38,~ANTM,^7,$Anthem Inc
+#39,~AON,^7,$AON Plc
+#40,~AOS,^7,$Smith A.O. Corp
+#41,~APA,^7,$Apa Corp
+#42,~APD,^7,$Air Products and Chemicals
+#43,~APH,^7,$Amphenol Corp
+#44,~APTV,^7,$Aptiv Plc
+#45,~ARE,^7,$Alexandria Real Estate Equities
+#46,~ATO,^7,$Atmos Energy Corp
+#47,~ATVI,^7,$Activision Blizzard
+#48,~AVB,^7,$Avalonbay Communities
+#49,~AVGO,^7,$Broadcom Ltd
+#50,~AVY,^7,$Avery Dennison Corp
+#51,~AWK,^7,$American Water Works
+#52,~AXP,^2,$American Express Company
+#53,~AZO,^7,$Autozone
+#54,~BA,^6,$Boeing Company
+#55,~BAC,^2,$Bank of America Corp
+#56,~BAX,^7,$Baxter International Inc
+#57,~BBWI,^7,$Bath & Body Works Inc
+#58,~BBY,^7,$Best Buy Company
+#59,~BDX,^7,$Becton Dickinson and Company
+#60,~BEN,^7,$Franklin Resources
+#61,~BF.B,^7,$Brown Forman Inc Cl B
+#62,~BIIB,^7,$Biogen Inc
+#63,~BIO,^7,$Bio-Rad Laboratories
+#64,~BK,^2,$Bank of New York Mellon Corp
+#65,~BKNG,^7,$Booking Holdings Inc
+#66,~BKR,^7,$Baker Hughes A Ge Co. Cl A
+#67,~BLK,^7,$Blackrock Inc
+#68,~BLL,^7,$Ball Corp
+#69,~BMY,^7,$Bristol-Myers Squibb Company
+#70,~BR,^7,$Broadridge Financial Solutions Llc
+#71,~BRK.B,^7,$Berkshire Hathaway Cl B
+#72,~BRO,^7,$Brown & Brown
+#73,~BSX,^7,$Boston Scientific Corp
+#74,~BWA,^7,$Borgwarner Inc
+#75,~BXP,^7,$Boston Properties
+#76,~C,^7,$Citigroup Inc
+#77,~CAG,^7,$Conagra Brands Inc
+#78,~CAH,^7,$Cardinal Health
+#79,~CARR,^7,$Carrier Global Corp
+#80,~CAT,^7,$Caterpillar Inc
+#81,~CB,^7,$Chubb Ltd
+#82,~CBOE,^7,$CBOE Global Markets Inc
+#83,~CBRE,^7,$CBRE Group Inc
+#84,~CCI,^7,$Crown Castle International Corp
+#85,~CCL,^7,$Carnival Corp
+#86,~CDAY,^7,$Ceridian Hcm Holding Inc
+#87,~CDNS,^7,$Cadence Design Sys
+#88,~CDW,^7,$CDW Corp
+#89,~CE,^7,$Celanese Corp
+#90,~CEG,^7,$Constellation Energy Corp
+#91,~CERN,^7,$Cerner Corp
+#92,~CF,^7,$Cf Industries Holdings
+#93,~CFG,^7,$Citizens Financial Group Inc/Ri
+#94,~CHD,^7,$Church & Dwight Company
+#95,~CHRW,^7,$C.H. Robinson Ww
+#96,~CHTR,^7,$Charter Communicatio
+#97,~CI,^7,$Cigna Corp
+#98,~CINF,^7,$Cincinnati Financial
+#99,~CL,^7,$Colgate-Palmolive Company
+#100,~CLX,^7,$Clorox Company
+#101,~CMA,^7,$Comerica Inc
+#102,~CMCSA,^7,$Comcast Corp A
+#103,~CME,^7,$CME Group Inc
+#104,~CMG,^7,$Chipotle Mexican Grill
+#105,~CMI,^7,$Cummins Inc
+#106,~CMS,^7,$Cms Energy Corp
+#107,~CNC,^7,$Centene Corp
+#108,~CNP,^7,$Centerpoint Energy Inc
+#109,~COF,^7,$Capital One Financial Corp
+#110,~COO,^7,$Cooper Companies
+#111,~COP,^7,$Conocophillips
+#112,~COST,^7,$Costco Wholesale
+#113,~CPB,^7,$Campbell Soup Company
+#114,~CPRT,^7,$Copart Inc
+#115,~CPT,^7,$Camden Property Trust
+#116,~CRL,^7,$Charles River Laboratories Intl
+#117,~CRM,^7,$Salesforce Inc
+#118,~CSCO,^1,$Cisco Systems Inc
+#119,~CSX,^7,$CSX Corp
+#120,~CTAS,^7,$Cintas Corp
+#121,~CTLT,^7,$Catalent Inc
+#122,~CTRA,^7,$Coterra Energy Inc
+#123,~CTSH,^7,$Cognizant Tech Sol
+#124,~CTVA,^7,$Corteva Inc
+#125,~CTXS,^7,$Citrix Systems Inc
+#126,~CVS,^7,$CVS Corp
+#127,~CVX,^7,$Chevron Corp
+#128,~CZR,^7,$Caesars Entertainment Inc
+#129,~D,^7,$Dominion Resources
+#130,~DAL,^6,$Delta Air Lines Inc
+#131,~DD,^7,$Dupont Denemours Inc
+#132,~DE,^7,$Deere & Company
+#133,~DFS,^7,$Discover Financial Services
+#134,~DG,^7,$Dollar General Corp
+#135,~DGX,^7,$Quest Diagnostics Inc
+#136,~DHI,^7,$D.R. Horton
+#137,~DHR,^7,$Danaher Corp
+#138,~DIS,^7,$Walt Disney Company
+#139,~DISH,^7,$Dish Network Corp
+#140,~DLR,^7,$Digital Realty Trust
+#141,~DLTR,^7,$Dollar Tree Inc
+#142,~DOV,^7,$Dover Corp
+#143,~DOW,^7,$Dow Inc
+#144,~DPZ,^7,$Domino's Pizza Inc
+#145,~DRE,^7,$Duke Realty Corp
+#146,~DRI,^7,$Darden Restaurants
+#147,~DTE,^3,$Dte Energy Company
+#148,~DUK,^3,$Duke Energy Corp
+#149,~DVA,^4,$Davita Healthcare Partners Inc
+#150,~DVN,^3,$Devon Energy Corp
+#151,~DXC,^1,$Dxc Technology Company
+#152,~DXCM,^1,$Dexcom
+#153,~EA,^1,$Electronic Arts Inc
+#154,~EBAY,^1,$Ebay Inc
+#155,~ECL,^7,$Ecolab Inc
+#156,~ED,^7,$Consolidated Edison Company of New York
+#157,~EFX,^7,$Equifax Inc
+#158,~EIX,^7,$Edison International
+#159,~EL,^7,$Estee Lauder Companies
+#160,~EMBC,^7,$Embecta Corp
+#161,~EMN,^7,$Eastman Chemical Company
+#162,~EMR,^7,$Emerson Electric Company
+#163,~ENPH,^7,$Enphase Energy Inc
+#164,~EOG,^7,$Eog Resources
+#165,~EPAM,^7,$Epam Systems Inc
+#166,~EQIX,^7,$Equinix Inc
+#167,~EQR,^7,$Equity Residential
+#168,~ES,^7,$Eversource Energy
+#169,~ESS,^7,$Essex Property Trust
+#170,~ETN,^7,$Eaton Corp
+#171,~ETR,^3,$Entergy Corp
+#172,~ETSY,^7,$Etsy Inc
+#173,~EVRG,^7,$Evergy Inc
+#174,~EW,^7,$Edwards Lifesciences Corp
+#175,~EXC,^7,$Exelon Corp
+#176,~EXPD,^7,$Expeditors Intl
+#177,~EXPE,^7,$Expedia Group Inc
+#178,~EXR,^7,$Extra Space Storage Inc
+#179,~F,^7,$Ford Motor Company
+#180,~FANG,^7,$Diamondback Energy
+#181,~FAST,^7,$Fastenal Company
+#182,~FB,^7,$Meta Platforms Inc
+#183,~FBHS,^7,$Fortune Brands Home & Security
+#184,~FCX,^7,$Freeport-Mcmoran Inc
+#185,~FDS,^7,$Factset Research Systems Inc
+#186,~FDX,^2,$Fedex Corp
+#187,~FE,^7,$Firstenergy Corp
+#188,~FFIV,^7,$F5 Inc
+#189,~FIS,^7,$Fidelity National Information Services
+#190,~FISV,^7,$Fiserv Inc
+#191,~FITB,^7,$Fifth Third Bancorp
+#192,~FLT,^7,$Fleetcor Technologies
+#193,~FMC,^7,$FMC Corp
+#194,~FOX,^7,$Fox Corp Cl B
+#195,~FOXA,^7,$Fox Corp Cl A
+#196,~FRC,^7,$First Republic Bank
+#197,~FRT,^7,$Federal Realty Investment Trust
+#198,~FTNT,^7,$Fortinet Inc
+#199,~FTV,^7,$Fortive Corp
+#200,~GD,^7,$General Dynamics Corp
+#201,~GE,^7,$General Electric Company
+#202,~GILD,^7,$Gilead Sciences Inc
+#203,~GIS,^7,$General Mills
+#204,~GL,^7,$Globe Life Inc
+#205,~GLW,^7,$Corning Inc
+#206,~GM,^7,$General Motors Company
+#207,~GNRC,^7,$Generac Holdings Inc
+#208,~GOOG,^1,$Alphabet Cl C
+#209,~GOOGL,^1,$Alphabet Cl A
+#210,~GPC,^7,$Genuine Parts Company
+#211,~GPN,^2,$Global Payments Inc
+#212,~GRMN,^7,$Garmin Ltd
+#213,~GS,^7,$Goldman Sachs Group
+#214,~GWW,^7,$W.W. Grainger
+#215,~HAL,^7,$Halliburton Company
+#216,~HAS,^7,$Hasbro Inc
+#217,~HBAN,^7,$Huntington Bcshs
+#218,~HCA,^7,$Hca Holdings Inc
+#219,~HD,^7,$Home Depot
+#220,~HES,^7,$Hess Corp
+#221,~HIG,^7,$Hartford Financial Services Group
+#222,~HII,^7,$Huntington Ingalls Industries
+#223,~HLT,^7,$Hilton Inc
+#224,~HOLX,^7,$Hologic Inc
+#225,~HON,^7,$Honeywell International Inc
+#226,~HPE,^7,$Hewlett Packard Enterprise Comp
+#227,~HPQ,^7,$Hp Inc
+#228,~HRL,^7,$Hormel Foods Corp
+#229,~HSIC,^7,$Henry Schein Inc
+#230,~HST,^7,$Host Marriott Financial Trust
+#231,~HSY,^7,$Hershey Foods Corp
+#232,~HUM,^7,$Humana Inc
+#233,~HWM,^7,$Howmet Aerospace Inc
+#234,~IBM,^7,$International Business Machines
+#235,~ICE,^7,$Intercontinental Exchange
+#236,~IDXX,^7,$Idexx Laboratories
+#237,~IEX,^7,$Idex Corp
+#238,~IFF,^7,$International Flavors & Fragrances
+#239,~ILMN,^7,$Illumina Inc
+#240,~INCY,^7,$Incyte Corp
+#241,~INTC,^7,$Intel Corp
+#242,~INTU,^7,$Intuit Inc
+#243,~IP,^7,$International Paper Company
+#244,~IPG,^7,$Interpublic Group of Companies
+#245,~IPGP,^7,$Ipg Photonics Corp
+#246,~IQV,^7,$Iqvia Holdings Inc
+#247,~IR,^7,$Ingersoll Rand Inc
+#248,~IRM,^7,$Iron Mountain Inc
+#249,~ISRG,^7,$Intuitive Surg Inc
+#250,~IT,^7,$Gartner Inc
+#251,~ITW,^7,$Illinois Tool Works Inc
+#252,~IVZ,^7,$Invesco Plc
+#253,~J,^7,$Jacobs Engineering Group Inc
+#254,~JBHT,^7,$J B Hunt Transport
+#255,~JCI,^7,$Johnson Controls Intl
+#256,~JKHY,^7,$Jack Henry & Assoc
+#257,~JNJ,^7,$Johnson & Johnson
+#258,~JNPR,^7,$Juniper Networks
+#259,~JPM,^7,$JP Morgan Chase & Company
+#260,~K,^4,$Kellogg Company
+#261,~KEY,^7,$Keycorp
+#262,~KEYS,^7,$Keysight Technologies Inc Comm
+#263,~KHC,^4,$Kraft Heinz Company
+#264,~KIM,^7,$Kimco Realty Corp
+#265,~KLAC,^7,$K L A-Tencor Corp
+#266,~KMB,^7,$Kimberly-Clark Corp
+#267,~KMI,^7,$Kinder Morgan
+#268,~KMX,^7,$Carmax Inc
+#269,~KO,^4,$Coca-Cola Company
+#270,~KR,^7,$Kroger Company
+#271,~L,^7,$Loews Corp
+#272,~LDOS,^7,$Leidos Holdings Inc
+#273,~LEN,^7,$Lennar Corp
+#274,~LH,^7,$Laboratory Corp of America Holdings
+#275,~LHX,^7,$L3Harris Technologies Inc
+#276,~LIN,^7,$Linde Plc
+#277,~LKQ,^7,$LKQ Corp
+#278,~LLY,^7,$Eli Lilly and Company
+#279,~LMT,^7,$Lockheed Martin Corp
+#280,~LNC,^7,$Lincoln National Corp
+#281,~LNT,^7,$Alliant Energy Corp
+#282,~LOW,^7,$Lowe's Companies
+#283,~LRCX,^7,$Lam Research Corp
+#284,~LUMN,^7,$Centurylink
+#285,~LUV,^7,$Southwest Airlines Company
+#286,~LVS,^7,$Las Vegas Sands
+#287,~LW,^7,$Lamb Weston Holdings Inc
+#288,~LYB,^7,$Lyondellbasell Industries NV
+#289,~LYV,^7,$Live Nation Entertainment
+#290,~MA,^2,$Mastercard Inc
+#291,~MAA,^7,$Mid-America Apartment Communities
+#292,~MAR,^7,$Marriot Int Cl A
+#293,~MAS,^7,$Masco Corp
+#294,~MCD,^4,$McDonald's Corp
+#295,~MCHP,^1,$Microchip Technology
+#296,~MCK,^7,$Mckesson Corp
+#297,~MCO,^7,$Moody's Corp
+#298,~MDLZ,^7,$Mondelez Intl Inc
+#299,~MDT,^7,$Medtronic Inc
+#300,~MET,^2,$Metlife Inc
+#301,~MGM,^7,$MGM Resorts International
+#302,~MHK,^7,$Mohawk Industries
+#303,~MKC,^7,$Mccormick & Company
+#304,~MKTX,^7,$Marketaxess Holdings
+#305,~MLM,^7,$Martin Marietta Materials
+#306,~MMC,^7,$Marsh & Mclennan Companies
+#307,~MMM,^7,$3M Company
+#308,~MNST,^7,$Monster Beverage Cp
+#309,~MO,^7,$Altria Group
+#310,~MOH,^7,$Molina Healthcare Inc
+#311,~MOS,^7,$Mosaic Company
+#312,~MPC,^7,$Marathon Petroleum Corp
+#313,~MPWR,^7,$Monolithic Power Sys
+#314,~MRK,^7,$Merck & Company
+#315,~MRNA,^7,$Moderna Inc
+#316,~MRO,^3,$Marathon Oil Corp
+#317,~MS,^1,$Morgan Stanley
+#318,~MSCI,^7,$MSCI Inc
+#319,~MSFT,^1,$Microsoft Corp
+#320,~MSI,^1,$Motorola Solutions
+#321,~MTB,^2,$M&T Bank Corp
+#322,~MTCH,^7,$Match Group Inc
+#323,~MTD,^7,$Mettler-Toledo International
+#324,~MU,^1,$Micron Technology
+#325,~NCLH,^7,$Norwegian Cruise Ord
+#326,~NDAQ,^1,$Nasdaq Inc
+#327,~NDSN,^7,$Nordson Corp
+#328,~NEE,^3,$Nextera Energy
+#329,~NEM,^7,$Newmont Mining Corp
+#330,~NFLX,^7,$Netflix Inc
+#331,~NI,^7,$NiSource Inc
+#332,~NKE,^7,$Nike Inc
+#333,~NLOK,^7,$Nortonlifelock Inc
+#334,~NLSN,^7,$Nielsen Holdings Plc
+#335,~NOC,^7,$Northrop Grumman Corp
+#336,~NOW,^7,$Servicenow Inc
+#337,~NRG,^3,$NRG Energy
+#338,~NSC,^7,$Norfolk Southern Corp
+#339,~NTAP,^7,$Netapp Inc
+#340,~NTRS,^7,$Northern Trust Corp
+#341,~NUE,^7,$Nucor Corp
+#342,~NVDA,^7,$Nvidia Corp
+#343,~NVR,^7,$NVR Inc
+#344,~NWL,^7,$Newell Rubbermaid Inc
+#345,~NWS,^2,$News Cp Cl B
+#346,~NWSA,^2,$News Cp Cl A
+#347,~NXPI,^7,$Nxp Semiconductors
+#348,~O,^7,$Realty Income Corp
+#349,~ODFL,^5,$Old Dominion Freight Line Inc
+#350,~OGN,^7,$Organon & CO
+#351,~OKE,^7,$Oneok Inc
+#352,~OMC,^7,$Omnicom Group Inc
+#353,~ORCL,^1,$Oracle Corp
+#354,~ORLY,^7,$O'Reilly Automotive
+#355,~OTIS,^7,$Otis Worldwide Corp
+#356,~OXY,^7,$Occidental Petroleum Corp
+#357,~PARA,^7,$Paramount Global Cl B
+#358,~PAYC,^2,$Paycom Software Inc
+#359,~PAYX,^1,$Paychex Inc
+#360,~PCAR,^7,$Paccar Inc
+#361,~PEAK,^7,$Healthpeak Properties Inc
+#362,~PEG,^5,$Public Service Enterprise Group Inc
+#363,~PENN,^7,$Penn Natl Gaming Inc
+#364,~PEP,^7,$Pepsico Inc
+#365,~PFE,^5,$Pfizer Inc
+#366,~PFG,^7,$Principal Financial Group Inc
+#367,~PG,^7,$Procter & Gamble Company
+#368,~PGR,^7,$Progressive Corp
+#369,~PH,^7,$Parker-Hannifin Corp
+#370,~PHM,^7,$Pultegroup
+#371,~PKG,^7,$Packaging Corp of America
+#372,~PKI,^7,$Perkinelmer
+#373,~PLD,^7,$Prologis Inc
+#374,~PM,^2,$Philip Morris International Inc
+#375,~PNC,^2,$PNC Bank
+#376,~PNR,^7,$Pentair Ltd
+#377,~PNW,^2,$Pinnacle West Capital Corp
+#378,~POOL,^7,$Pool Corp
+#379,~PPG,^7,$PPG Industries
+#380,~PPL,^7,$PPL Corp
+#381,~PRU,^7,$Prudential Financial Inc
+#382,~PSA,^7,$Public Storage
+#383,~PSX,^1,$Phillips 66
+#384,~PTC,^7,$Ptc Inc
+#385,~PVH,^7,$Phillips-Van Heusen Corp
+#386,~PWR,^5,$Quanta Services
+#387,~PXD,^7,$Pioneer Natural Resources Company
+#388,~PYPL,^2,$Paypal Holdings
+#389,~QCOM,^7,$Qualcomm Inc
+#390,~QRVO,^7,$Qorvo Inc
+#391,~RCL,^7,$Royal Caribbean Cruises Ltd
+#392,~RE,^7,$Everest Re Group
+#393,~REG,^7,$Regency Centers Corp
+#394,~REGN,^7,$Regeneron Pharmaceuticals
+#395,~RF,^7,$Regions Financial Corp
+#396,~RHI,^7,$Robert Half International Inc
+#397,~RJF,^7,$Raymond James Financial
+#398,~RL,^5,$Ralph Lauren Corp
+#399,~RMD,^7,$Resmed Inc
+#400,~ROK,^7,$Rockwell Automation Inc
+#401,~ROL,^7,$Rollins Inc
+#402,~ROP,^7,$Roper Industries
+#403,~ROST,^7,$Ross Stores Inc
+#404,~RSG,^7,$Republic Services
+#405,~RTX,^7,$Raytheon Technologies Corp
+#406,~SBAC,^7,$SBA Communications
+#407,~SBNY,^2,$Signature Bank
+#408,~SBUX,^5,$Starbucks Corp
+#409,~SCHW,^5,$The Charles Schwab Corp
+#410,~SEDG,^7,$Solaredge Tech
+#411,~SEE,^7,$Sealed Air Corp
+#412,~SHW,^7,$Sherwin-Williams Company
+#413,~SIVB,^2,$Svb Financial Group
+#414,~SJM,^7,$J.M. Smucker Company
+#415,~SLB,^7,$Schlumberger N.V.
+#416,~SNA,^7,$Snap-On Inc
+#417,~SNPS,^7,$Synopsys Inc
+#418,~SO,^7,$Southern Company
+#419,~SPG,^7,$Simon Property Group
+#420,~SPGI,^7,$S&P Global Inc
+#421,~SRE,^7,$Sempra
+#422,~STE,^7,$Steris Corp
+#423,~STT,^7,$State Street Corp
+#424,~STX,^7,$Seagate Technology Hldgs Plc
+#425,~STZ,^7,$Constellation Brands Inc
+#426,~SWK,^7,$Stanley Black & Decker Inc
+#427,~SWKS,^7,$Skyworks Solutions
+#428,~SYF,^7,$Synchrony Financial
+#429,~SYK,^7,$Stryker Corp
+#430,~SYY,^7,$Sysco Corp
+#431,~T,^1,$AT&T Inc
+#432,~TAP,^5,$Molson Coors Brewing Company
+#433,~TDG,^7,$Transdigm Group Inc
+#434,~TDY,^7,$Teledyne Technologies Inc
+#435,~TECH,^1,$Bio-Techne Cp
+#436,~TEL,^7,$Te Connectivity Ltd
+#437,~TER,^7,$Teradyne Inc
+#438,~TFC,^7,$Truist Financial Corp
+#439,~TFX,^7,$Teleflex Inc
+#440,~TGT,^7,$Target Corp
+#441,~TJX,^7,$TJX Companies
+#442,~TMO,^7,$Thermo Fisher Scientific Inc
+#443,~TMUS,^7,$T-Mobile US
+#444,~TPR,^7,$Tapestry Inc
+#445,~TRMB,^7,$Trimble Navigation
+#446,~TROW,^7,$T Rowe Price Group
+#447,~TRV,^7,$The Travelers Companies Inc
+#448,~TSCO,^7,$Tractor Supply Company
+#449,~TSLA,^7,$Tesla Inc
+#450,~TSN,^7,$Tyson Foods
+#451,~TT,^7,$Trane Technologies Plc
+#452,~TTWO,^7,$Take-Two Interactive
+#453,~TWTR,^1,$Twitter Inc
+#454,~TXN,^1,$Texas Instruments
+#455,~TXT,^1,$Textron Inc
+#456,~TYL,^7,$Tyler Technologies
+#457,~UA,^7,$Under Armour Inc Cl C
+#458,~UAA,^7,$Under Armour
+#459,~UAL,^7,$United Airlines Holdings Inc
+#460,~UDR,^7,$United Dominion Realty Trust
+#461,~UHS,^7,$Universal Health Services
+#462,~ULTA,^7,$Ulta Beauty Inc
+#463,~UNH,^7,$Unitedhealth Group Inc
+#464,~UNP,^7,$Union Pacific Corp
+#465,~UPS,^7,$United Parcel Service
+#466,~URI,^7,$United Rentals
+#467,~USB,^2,$U.S. Bancorp
+#468,~V,^2,$Visa Inc
+#469,~VFC,^7,$V.F. Corp
+#470,~VLO,^3,$Valero Energy Corp
+#471,~VMC,^7,$Vulcan Materials Company
+#472,~VNO,^7,$Vornado Realty Trust
+#473,~VRSK,^7,$Verisk Analytics Inc
+#474,~VRSN,^7,$Verisign Inc
+#475,~VRTX,^7,$Vertex Pharmaceutic
+#476,~VTR,^7,$Ventas Inc
+#477,~VTRS,^7,$Viatris Inc
+#478,~VZ,^7,$Verizon Communications Inc
+#479,~WAB,^7,$Wabtec Corp
+#480,~WAT,^7,$Waters Corp
+#481,~WBA,^7,$Walgreens Boots Alliance
+#482,~WBD,^7,$Discovery Inc Series A
+#483,~WDC,^7,$Western Digital Cp
+#484,~WEC,^7,$Wisconsin Energy Corp
+#485,~WELL,^7,$Welltower Inc
+#486,~WFC,^7,$Wells Fargo & Company
+#487,~WHR,^7,$Whirlpool Corp
+#488,~WM,^7,$Waste Management
+#489,~WMB,^7,$Williams Companies
+#490,~WMT,^7,$Walmart Inc
+#491,~WRB,^7,$W.R. Berkley Corp
+#492,~WRK,^7,$Westrock Company
+#493,~WST,^7,$West Pharmaceutical Services
+#494,~WTW,^7,$Willis Towers Watson Public Ltd CO
+#495,~WY,^7,$Weyerhaeuser Company
+#496,~WYNN,^7,$Wynn Resorts Ltd
+#497,~XEL,^3,$XCEL Energy Inc
+#498,~XOM,^3,$Exxon Mobil Corp
+#499,~XRAY,^7,$Dentsply Sirona Inc
+#500,~XYL,^7,$Xylem Inc
+#501,~YUM,^7,$Yum! Brands
+#502,~ZBH,^7,$Zimmer Biomet Holdings
+#503,~ZBRA,^7,$Zebra Technologies
+#504,~ZION,^2,$Zions Bancorp
+#505,~ZTS,^7,$Zoetis Inc Cl A

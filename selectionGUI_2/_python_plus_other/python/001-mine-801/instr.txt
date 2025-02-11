@@ -1,0 +1,2 @@
+cd C:\PyCharm2022-MarianoRico\801-GUI-TKINter
+python GUI_Three.py

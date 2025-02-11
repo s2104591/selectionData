@@ -1,0 +1,25 @@
+#Jan05
+from collections import Counter
+
+
+def get_duplicated(df_all):
+    counter=Counter()
+    
+    df_all=df_all.groupby(['Code'])['SR'].agg(['mean'])
+    df_all['fullcode']=df_all.index
+    df_all['cleancode']=df_all['fullcode'].apply(cleancode)    
+    
+    for idx in df_all.index:
+        c=df_all.loc[idx,'cleancode']
+        counter.update([c])
+        #print(c)
+        
+    duplicates=[ code for code,count in counter.most_common() if count>=2  ]    
+    return duplicates
+
+def get_duplicatedcomment(code,duplicates):
+    if code in duplicates:
+        return "multiple"
+    return "single"
+
+

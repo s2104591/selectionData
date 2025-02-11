@@ -1,0 +1,104 @@
+
+
+For c# : 
+1. when removing last day, keep dayId same, change code to "removed"
+2. when changing start and HR2 back>300 make rank=back
+3. when clicking Change menu use HR 0-303-0
+4. add int[] quickReferenceDays=new int[9980] , gets filled in readfiles
+5. use quickReferenceDays in fetchData()
+ 
+
+for Java:
+1. remove bug in assigning strategy -done version2
+2. remove showMessages on btnGo -done v2
+3. add eMessage Box instead  -done v2
+4. format grid items so allign better -done v2
+5. add  NumberList class gets used display medians - done v2
+6. When getting DOW use AAPL only -done v2
+7. multiple codes in strategy   -done v2
+
+--------------------------------------------------------------------------------------------
+
+
+
+
+
+8. highrank 303 and 304 for change and drop  [yes,later easy]
+9. when clicking startegy, need to assign max values also, default to 200 [yes,later easy]
+18. create & use function to set strategy using all values with matching variable types [yes,later easy]
+
+
+10. default incThurs False, move DOW in line with MaxitemsDay [maybe,later easy]
+11. btnClear  & btnExit  - also change defaultOperation to doNothingOnClose [yes,later easy]
+
+
+16. create and use NumberList.output() method displays count,avg, median [maybe,later easy]
+    Also if exceed size, count, avg and median to return 0; [yes,later easy]
+15. use NumberList for calculating HighRates [maybe, easy, later]
+
+
+
+12. comboBox for selecting code - [done]
+ 
+13. when searching code pass as parameter, not have global variable -[maybe,later, easy]
+14. implement Quick reference -[yes,later easy] - see if should use HashMap but don't think so use 2d array.
+
+17. have meunu function to specify market -> US400, US500,US600,Euro,London and Currency- [done]
+
+
+
+19a. in select GUI, favorites list to be displayed sorted by groupID,[yes, easy -later]
+19b. in selectGUI, when selecting strategy, sometimes not showing in mainscreen (need to change num in file),[yes, easy -later]
+19c. in Main, clear button, move DOW up and make codes box longer [yes,later-easy]
+19d. Im Main, have empty box to type notes [easy-later]
+19e. in selectGUI and stratLite, save codes $ delimtated . [easy-later]
+19f. Also  extra fields in StratLite. Called boolProcessed,performanceCount,performanceAvg.For stratgeyFinder[easy-later] 
+
+20. button in selectGUI to select codes from file, [easy -later]
+21. button in select GUI to show mainScreen, [easy -later]
+22. button in select GUI to Use ColorChooser to colorise panels, [easy -later] 
+23. With selectionGUI, create function which takes in MainForm as parameter and processes setStrategy call back for it.
+    Maybe even changes layout bounds of components. [easy, later]
+     
+
+
+24. create project called projectSelectGUI, [easy -later]
+25. create exe, using something.. 4j, [easy -later]
+26. create strategy finder, running on threads, printing results to filewriter [later-challenge]
+
+
+27a. have windows default state to NOTHING ON CLOSE and have button event to exit(0) [easy, later]
+27b. prefixes on the lineID and CodeID and also show comp with the prefix, using toString() method also [easy, later]
+
+28. StringBuffer- instead of String (maybe ) , investigate if strings create memory problem [easy, later]
+29. empty JTextArea for notes somewhere, also first 2 listboxes too big in selectionGUI. [easy, today]
+30. Trading edition of app, [easy, today]
+31. Clear button somewhere, changes min vals to 0 codes to "" (could use an empty strategy for this )
+
+
+32. Tab on Main Screen , quadripple space
+33. Main screen to only implement GUI Processor, can have previous editions also-for testing
+34. Create Project to watch results for different GUI processor editions, ie test same	
+
+
+
+
+
+
+----------------------------------    Maybe below  -----------------------------
+
+1. download barcharts at Midnight
+
+
+
+
+
+ 
+ 
+
+ 
+
+
+
+
+    

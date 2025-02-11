@@ -1,0 +1,15 @@
+﻿,name,minHR1,minhr2,minCh,minHighLast,maxHR1,maxHR2,maxCh,maxHighLast,Back1,Rank1,Back2,Rank2,codes
+1,strategy1,121,122,123,124,201,202,203,204,20,1,10,1,sbny$paypl$ma
+start,,,,,,,,,,,,,,
+2,FirstReal,107,101,96,105,200,200,200,200,20,1,10,1,dvn$fang
+4,3rd,114,107,95,105,200,200,200,200,20,1,10,1,AMAT$
+5,ENERGY,108,102,96,102,200,200,200,200,20,1,10,1,AEP$DTE$DUK$DVN$ETR$MRO$NEE$NRG$VLO$XEL$XOM
+6,Tech,123,108,96,103,136,122,200,200,20,1,10,1,AAPL$CSCO$DXC$DXCM$EA$EBAY$GOOG$GOOGL$MCHP$MS$MSFT$MSI$MU$NDAQ$ORCL$PAYC$PAYX$PSX$TECH$TWTR$TXN$TXT$
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+skipthis,,,,"AEP,DTE,DUK,DVN,ETR,MRO,NEE,NRG,VLO,XEL,XOM,",,,,,,,,,,
+skipthis,,,,"AAPL,CSCO,DXC,DXCM,EA,EBAY,GOOG,GOOGL,MCHP,MS,MSFT,MSI,MU,NDAQ,ORCL,PAYC,PAYX,PSX,TECH,TWTR,TXN,TXT,",,,,,,,,,,

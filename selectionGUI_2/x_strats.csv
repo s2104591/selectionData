@@ -1,0 +1,12 @@
+﻿start,name,minHR1,minhr2,minCh,minHighLast,maxHR1,maxHR2,maxCh,maxHighLast,Back1,Rank1,Back2,Rank2,codes
+1,strategyTesting,121,122,123,124,201,202,203,204,7,2,8,3,sbny$paypl$ma
+,,,,,,,,,,,,,,
+skipthis," { 20-H, Change,HighLast }+10-H=113    ->   { 125,95,105  }  {118, 90,108 }    { 100, 95,106  }   { 100,100,104  }",,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+21,Strategy1,125,113,95,105,200,200,200,200,20,1,10,1,every$
+22,Strategy2,118,113,90,108,200,200,200,200,20,1,10,1,every$
+23,Strategy3,100,113,95,106,200,200,200,200,20,1,10,1,every$
+24,Strategy4,100,113,100,104,200,200,200,200,20,1,10,1,every$
+,,,,,,,,,,,,,,
+skipthis,Strategy5,100,113,100,104,200,200,200,200,20,1,10,1,every$
+26,Strategy6,100,113,100,104,200,200,200,200,20,1,10,1,every$

@@ -1,0 +1,10 @@
+
+focus=5-H minhr=90.0 minhr2=90.0 minhpc=90.0 minCh=90.0
+
+step 1 done, ** length= 134
+items
+360,WDS,, >>  5-H >= 90.0 5-H >=90.0 minHPC=90.0 minCh=90.0
+
+start
+360-22000	 ->11_	103.09	103.53	95.39
+WDS-22000	 ->4__	102.02	103.19	96.76

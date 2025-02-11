@@ -1,0 +1,9 @@
+﻿start,code,group,CoName
+#1,~AAPL,^1,$Apple
+#2,~MSFT,^1,$Microsoft
+#3,~ORCL,^1,$Oracle
+,,,
+#4,~V,^2,$Visa
+#5,~MA,^2,$MasterCard
+#6,~AXP,^2,$AmericanExpress
+#7,~SBNY,^2,$SigBankNY

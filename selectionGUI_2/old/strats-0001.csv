@@ -1,0 +1,4 @@
+﻿start,name,minHR1,minhr2,minCh,minHighLast,maxHR1,maxHR2,maxCh,maxHighLast,Back1,Rank1,Back2,Rank2,codes
+1,strategy1,121,122,123,124,201,202,203,204,20,1,10,1,sbny$paypl$ma
+skipthis,,,,,,,,,,,,,,
+101,FirstReal,107,101,95,105,200,200,200,200,20,1,10,1,dvn$fang
